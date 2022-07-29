@@ -25,7 +25,7 @@ const Contact = () => {
                     <div className="contact__info__container d-flex align-items-center gap-4">
                         <div className="single__info-box w-50">
                             <h6><i className="ri-mail-fill"></i> Email</h6>
-                            <p>vishvpatel25590@gmail.com</p>
+                            <p>vishvpatel255@gmail.com</p>
                         </div>
                         <div className="single__info-box w-50">
                             <h6>Find Me</h6>
